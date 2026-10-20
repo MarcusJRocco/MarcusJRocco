@@ -17,27 +17,13 @@ My technical experience includes Tableau, Power BI, SQL, Python, Snowflake, and 
 
 ### Certifications
 
-<a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=dJt+umGPfNwPRW0RyYh3c5XzNKrUqdZ5bijBzJmHboOfewPcdA7boDnsNj+0yxsW"><img src="Tableau.png" alt="Salesforce Certified Tableau Data Analyst" height="120"></a>
-<a href="https://www.credly.com/badges/3dfb7aad-ce98-4fb2-bc6d-518ddfe404ac/public_url"><img src="Alteryx.png" alt="Alteryx Designer Core Certified" height="120"></a>
-<a href="https://www.credly.com/badges/fd364227-555c-47ee-be66-9d6dc489a9e6/public_url"><img src="Google.png" alt="Google Data Analytics Professional Certificate" height="120"></a>
+<a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=dJt+umGPfNwPRW0RyYh3c5XzNKrUqdZ5bijBzJmHboOfewPcdA7boDnsNj+0yxsW"><img src="Images/Tableau.png" alt="Salesforce Certified Tableau Data Analyst" height="120"></a>
+<a href="https://www.credly.com/badges/3dfb7aad-ce98-4fb2-bc6d-518ddfe404ac/public_url"><img src="Images/Alteryx.png" alt="Alteryx Designer Core Certified" height="120"></a>
+<a href="https://www.credly.com/badges/fd364227-555c-47ee-be66-9d6dc489a9e6/public_url"><img src="Images/Google.png" alt="Google Data Analytics Professional Certificate" height="120"></a>
 
 ### Explore my work
-🌐 Portfolio: https://marcusjrocco.github.io/Marcus-Rocco/
-📊 Tableau Public: https://public.tableau.com/app/profile/marcus.rocco/vizzes
-📝 Blog (The Data School): https://www.thedataschool.com/blog/marcus-rocco/
-🎓 Featured by Stevens: https://www.stevens.edu/news/behind-the-seams
 
-<!--
-**MarcusJRocco/MarcusJRocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Portfolio: https://marcusjrocco.github.io/Marcus-Rocco/
+- 📊 Tableau Public: https://public.tableau.com/app/profile/marcus.rocco/vizzes
+- 📝 Blog (The Data School): https://www.thedataschool.com/blog/marcus-rocco/
+- 🎓 Featured by Stevens: https://www.stevens.edu/news/behind-the-seams
