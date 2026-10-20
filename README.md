@@ -25,11 +25,9 @@ My technical experience includes **Tableau, Power BI, SQL, Python, Snowflake, an
 
 **NHDES Drinking Water and Groundwater Trust Fund Dashboard**
 
-Click the image to go to the dashboard.
-
 <a href="https://public.tableau.com/views/NHDESDrinkingWaterandGroundwaterTrustFundDashboard/SummaryView?:language=en-US&:display_count=n&:origin=viz_share_link"><img src="Images/SummaryView.png" alt="NHDES Drinking Water and Groundwater Trust Fund Dashboard" width="600"></a>
 
-Link: https://public.tableau.com/views/NHDESDrinkingWaterandGroundwaterTrustFundDashboard/SummaryView?:language=en-US&:display_count=n&:origin=viz_share_link
+*Click the image to go to the dashboard.*
 
 ### Explore More of My Work
 
