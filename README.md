@@ -1,6 +1,8 @@
-# Marcus Rocco 👋
 
-### Data Analytics Consultant @ The Information Lab
+# Welcome to My GitHub! 👋
+
+### I'm Marcus Rocco
+**Data Analytics Consultant @ The Information Lab**
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -11,7 +13,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## 👨‍💻 About Me
+## About Me
 
 I build **business intelligence solutions** that transform complex data into clear, actionable insights that support better decision-making.
 
@@ -25,23 +27,44 @@ My industry capstone project was **featured by the Stevens School of Business**.
 
 Before graduate school, I earned a **B.S. in Management Information Systems** from Clemson University. I also spent nearly two years as a Student IT Support Center Consultant, where I strengthened my ability to troubleshoot technical challenges and communicate solutions to non-technical audiences.
 
-## 🚀 Featured Projects
+## Data Visualization Projects
 
-### NHDES Drinking Water and Groundwater Trust Fund Dashboard
+Explore some of my interactive dashboards and data visualization projects built using Tableau.
 
-<a href="https://public.tableau.com/views/NHDESDrinkingWaterandGroundwaterTrustFundDashboard/SummaryView?:language=en-US&:display_count=n&:origin=viz_share_link">
-  <img src="Images/SummaryView.png" alt="NHDES Drinking Water and Groundwater Trust Fund Dashboard" width="800">
-</a>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <strong>NHDES Drinking Water and Groundwater Trust Fund Dashboard</strong>
+      <br><br>
+      <a href="https://public.tableau.com/views/NHDESDrinkingWaterandGroundwaterTrustFundDashboard/SummaryView?:language=en-US&amp;:display_count=n&amp;:origin=viz_share_link">
+        <img src="Images/SummaryView.png" alt="NHDES Drinking Water and Groundwater Trust Fund Dashboard" width="100%">
+      </a>
+      <br><br>
+      <a href="https://public.tableau.com/views/NHDESDrinkingWaterandGroundwaterTrustFundDashboard/SummaryView?:language=en-US&amp;:display_count=n&amp;:origin=viz_share_link">
+        📊 View Interactive Dashboard
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <strong>Digital Transformation in America's Libraries</strong>
+      <br><br>
+      <a href="https://public.tableau.com/views/InformationLabFinalDashboard-DigitalTransformationinAmericasLibraries/FinalDashboard?:language=en-US&amp;:sid=&amp;:redirect=auth&amp;:display_count=n&amp;:origin=viz_share_link">
+        <img src="Images/FinalDashboard.png" alt="Digital Transformation in America's Libraries Dashboard" width="100%">
+      </a>
+      <br><br>
+      <a href="https://public.tableau.com/views/InformationLabFinalDashboard-DigitalTransformationinAmericasLibraries/FinalDashboard?:language=en-US&amp;:sid=&amp;:redirect=auth&amp;:display_count=n&amp;:origin=viz_share_link">
+        📊 View Interactive Dashboard
+      </a>
+    </td>
+  </tr>
+</table>
 
-*Click the image to explore the interactive dashboard on Tableau Public.*
-
-## 🏅 Certifications
+## Certifications
 
 | Alteryx Designer Core Certified | Google Data Analytics Professional Certificate | Salesforce Certified Tableau Data Analyst |
 |:-:|:-:|:-:|
 | <a href="https://www.credly.com/badges/3dfb7aad-ce98-4fb2-bc6d-518ddfe404ac/public_url"><img src="Images/Alteryx.png" alt="Alteryx Designer Core Certified" height="120"></a> | <a href="https://www.credly.com/badges/fd364227-555c-47ee-be66-9d6dc489a9e6/public_url"><img src="Images/Google.png" alt="Google Data Analytics Professional Certificate" height="120"></a> | <a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=dJt+umGPfNwPRW0RyYh3c5XzNKrUqdZ5bijBzJmHboOfewPcdA7boDnsNj+0yxsW"><img src="Images/Tableau.png" alt="Salesforce Certified Tableau Data Analyst" height="120"></a> |
 
-## 🔗 Explore More of My Work
+## Explore More of My Work
 
 - 🌐 **Portfolio:** [https://marcusjrocco.github.io/Marcus-Rocco/](https://marcusjrocco.github.io/Marcus-Rocco/)
 - 📊 **Tableau Public:** [https://public.tableau.com/app/profile/marcus.rocco/vizzes](https://public.tableau.com/app/profile/marcus.rocco/vizzes)
