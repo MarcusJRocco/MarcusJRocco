@@ -1,5 +1,17 @@
-## Welcome to my GitHub Portfolio
-### My name is Marcus Rocco
+# Marcus Rocco 👋
+
+### Data Analytics Consultant @ The Information Lab
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-007DBA?style=flat&logo=alteryx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+## 👨‍💻 About Me
 
 I build **business intelligence solutions** that transform complex data into clear, actionable insights that support better decision-making.
 
@@ -13,25 +25,25 @@ My industry capstone project was **featured by the Stevens School of Business**.
 
 Before graduate school, I earned a **B.S. in Management Information Systems** from Clemson University. I also spent nearly two years as a Student IT Support Center Consultant, where I strengthened my ability to troubleshoot technical challenges and communicate solutions to non-technical audiences.
 
-My technical experience includes **Tableau, Power BI, SQL, Python, Snowflake, and Alteryx**, along with Git and MongoDB.
+## 🚀 Featured Projects
 
-### Certifications
+### NHDES Drinking Water and Groundwater Trust Fund Dashboard
+
+<a href="https://public.tableau.com/views/NHDESDrinkingWaterandGroundwaterTrustFundDashboard/SummaryView?:language=en-US&:display_count=n&:origin=viz_share_link">
+  <img src="Images/SummaryView.png" alt="NHDES Drinking Water and Groundwater Trust Fund Dashboard" width="800">
+</a>
+
+*Click the image to explore the interactive dashboard on Tableau Public.*
+
+## 🏅 Certifications
 
 | Alteryx Designer Core Certified | Google Data Analytics Professional Certificate | Salesforce Certified Tableau Data Analyst |
 |:-:|:-:|:-:|
 | <a href="https://www.credly.com/badges/3dfb7aad-ce98-4fb2-bc6d-518ddfe404ac/public_url"><img src="Images/Alteryx.png" alt="Alteryx Designer Core Certified" height="120"></a> | <a href="https://www.credly.com/badges/fd364227-555c-47ee-be66-9d6dc489a9e6/public_url"><img src="Images/Google.png" alt="Google Data Analytics Professional Certificate" height="120"></a> | <a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=dJt+umGPfNwPRW0RyYh3c5XzNKrUqdZ5bijBzJmHboOfewPcdA7boDnsNj+0yxsW"><img src="Images/Tableau.png" alt="Salesforce Certified Tableau Data Analyst" height="120"></a> |
 
-### Projects
+## 🔗 Explore More of My Work
 
-**NHDES Drinking Water and Groundwater Trust Fund Dashboard**
-
-<a href="https://public.tableau.com/views/NHDESDrinkingWaterandGroundwaterTrustFundDashboard/SummaryView?:language=en-US&:display_count=n&:origin=viz_share_link"><img src="Images/SummaryView.png" alt="NHDES Drinking Water and Groundwater Trust Fund Dashboard" width="600"></a>
-
-*Click the image to go to the dashboard.*
-
-### Explore More of My Work
-
-- 🌐 Portfolio: https://marcusjrocco.github.io/Marcus-Rocco/
-- 📊 Tableau Public: https://public.tableau.com/app/profile/marcus.rocco/vizzes
-- 📝 Blog (The Data School): https://www.thedataschool.com/blog/marcus-rocco/
-- 🎓 Featured by Stevens: https://www.stevens.edu/news/behind-the-seams
+- 🌐 **Portfolio:** [https://marcusjrocco.github.io/Marcus-Rocco/](https://marcusjrocco.github.io/Marcus-Rocco/)
+- 📊 **Tableau Public:** [https://public.tableau.com/app/profile/marcus.rocco/vizzes](https://public.tableau.com/app/profile/marcus.rocco/vizzes)
+- 📝 **Blog (The Data School):** [https://www.thedataschool.com/blog/marcus-rocco/](https://www.thedataschool.com/blog/marcus-rocco/)
+- 🎓 **Featured by Stevens:** [https://www.stevens.edu/news/behind-the-seams](https://www.stevens.edu/news/behind-the-seams)
