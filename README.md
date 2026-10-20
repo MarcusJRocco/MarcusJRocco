@@ -3,9 +3,9 @@
 ### I'm Marcus Rocco
 **Data Analytics Consultant @ The Information Lab**
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logoColor=white)
+![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://custom-icon-badges.demolab.com/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![SQL](https://custom-icon-badges.demolab.com/badge/SQL-4479A1?style=flat&logo=database&logoSource=feather&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-007DBA?style=flat&logo=alteryx&logoColor=white)
