@@ -39,10 +39,6 @@ Explore some of my interactive dashboards and data visualization projects built 
       <a href="https://public.tableau.com/views/NHDESDrinkingWaterandGroundwaterTrustFundDashboard/SummaryView?:language=en-US&amp;:display_count=n&amp;:origin=viz_share_link">
         <img src="Images/SummaryView.png" alt="NHDES Drinking Water and Groundwater Trust Fund Dashboard" width="100%">
       </a>
-      <br><br>
-      <a href="https://public.tableau.com/views/NHDESDrinkingWaterandGroundwaterTrustFundDashboard/SummaryView?:language=en-US&amp;:display_count=n&amp;:origin=viz_share_link">
-        📊 View Interactive Dashboard
-      </a>
     </td>
     <td width="50%" align="center" valign="top">
       <strong>Digital Transformation in America's Libraries</strong>
@@ -50,7 +46,17 @@ Explore some of my interactive dashboards and data visualization projects built 
       <a href="https://public.tableau.com/views/InformationLabFinalDashboard-DigitalTransformationinAmericasLibraries/FinalDashboard?:language=en-US&amp;:sid=&amp;:redirect=auth&amp;:display_count=n&amp;:origin=viz_share_link">
         <img src="Images/FinalDashboard.png" alt="Digital Transformation in America's Libraries Dashboard" width="100%">
       </a>
-      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="bottom">
+      <br>
+      <a href="https://public.tableau.com/views/NHDESDrinkingWaterandGroundwaterTrustFundDashboard/SummaryView?:language=en-US&amp;:display_count=n&amp;:origin=viz_share_link">
+        📊 View Interactive Dashboard
+      </a>
+    </td>
+    <td align="center" valign="bottom">
+      <br>
       <a href="https://public.tableau.com/views/InformationLabFinalDashboard-DigitalTransformationinAmericasLibraries/FinalDashboard?:language=en-US&amp;:sid=&amp;:redirect=auth&amp;:display_count=n&amp;:origin=viz_share_link">
         📊 View Interactive Dashboard
       </a>
