@@ -8,7 +8,7 @@
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-4479A1?style=flat&logo=database&logoSource=feather&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Alteryx](https://flat.badgen.net/badge/icon/Alteryx/007DBA?icon=https%3A%2F%2Fraw.githubusercontent.com%2Fsimple-icons%2Fsimple-icons%2F13.21.0%2Ficons%2Falteryx.svg&label)
+![Alteryx](https://img.shields.io/badge/Alteryx-007DBA?style=flat&logo=alteryx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
