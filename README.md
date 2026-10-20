@@ -17,8 +17,6 @@ My technical experience includes **Tableau, Power BI, SQL, Python, Snowflake, an
 
 ### Certifications
 
-### Certifications
-
 | Salesforce Certified Tableau Data Analyst | Alteryx Designer Core Certified | Google Data Analytics Professional Certificate |
 |:-:|:-:|:-:|
 | <a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=dJt+umGPfNwPRW0RyYh3c5XzNKrUqdZ5bijBzJmHboOfewPcdA7boDnsNj+0yxsW"><img src="Images/Tableau.png" alt="Salesforce Certified Tableau Data Analyst" height="120"></a> | <a href="https://www.credly.com/badges/3dfb7aad-ce98-4fb2-bc6d-518ddfe404ac/public_url"><img src="Images/Alteryx.png" alt="Alteryx Designer Core Certified" height="120"></a> | <a href="https://www.credly.com/badges/fd364227-555c-47ee-be66-9d6dc489a9e6/public_url"><img src="Images/Google.png" alt="Google Data Analytics Professional Certificate" height="120"></a> |
